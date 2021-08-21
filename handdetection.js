@@ -26,7 +26,7 @@ const weather = ['Its is a good weather today. The forcast shows lots of love.',
 'Weather seams rough today you need a hug']
 
 const sad = ['haww this needs to be brought imediatly to the notice of my master.',
-'Thats sad, but remember a big loves you and has designed me for you.'] 
+'Thats sad, but remember my master has designed me for you. You can share anything with me'] 
 
 const happy = ['Yaayy,  me too my master designed me to keep you happy.', 'That is great such a human thing, I wish I were you.']
 
